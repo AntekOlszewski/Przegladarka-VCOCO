@@ -4,7 +4,7 @@
 ### Instalacja
 1. Sklonuj repozytorium.
 
-2. Pobierz <a href=[http://mscoco.org](https://cocodataset.org/#download)/>adnotacje</a> dla zbioru 2014. Jeśli pobieranie na stronie nie działa, można pobrać poleceniem:
+2. Pobierz <a href=https://cocodataset.org/#download/>adnotacje</a> dla zbioru 2014. Jeśli pobieranie na stronie nie działa, można pobrać poleceniem:
 curl http://images.cocodataset.org/annotations/annotations_trainval2014.zip -o adnotacje.zip
 
 3. Wypakuj adnotacje w katalogu katalog_z_projektem/coco-data/annotations/
